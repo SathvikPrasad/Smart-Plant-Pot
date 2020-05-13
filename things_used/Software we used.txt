@@ -1,0 +1,10 @@
+arduino IDE  -------for arduino and nodemcu
+
+
+adafruit.io --------for publishing and Notification
+
+
+mit app Inventor2 --for making app
+
+
+inkscape ----------for making app icon

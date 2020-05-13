@@ -1,0 +1,42 @@
+arduino nano  ----  https://components101.com/microcontrollers/arduino-nano
+
+
+nodeMCU 12E----   https://en.wikipedia.org/wiki/NodeMCU
+
+
+LM298 motor driver -----https://www.sparkfun.com/datasheets/Robotics/L298_H_Bridge.pdf
+
+
+bluetooth Hc05----https://www.gme.cz/data/attachments/dsh.772-148.1.pdf
+
+
+
+2 channel relay ---  http://wiki.sunfounder.cc/index.php?title=2_Channel_5V_Relay_Module
+
+
+ir recievers---  https://www.vishay.com/docs/82491/tsop382.pdf
+
+
+ir transmitters---- https://www.parallax.com/sites/default/files/downloads/350-00017-IR-Transmitter-Documentation.pdf
+
+
+ir sensors----  https://www.electronicshub.org/ir-sensor/
+
+
+chaasis ----
+
+
+dc motoes---
+
+
+
+led lights---
+
+
+jumpers---
+
+
+black plaster---
+
+
+
