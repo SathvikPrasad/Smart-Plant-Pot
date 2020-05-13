@@ -1,0 +1,3 @@
+Automating the task of taking care of a plant is the main goal of this project.
+Wheels are placed below the pot to transport the plant to places in the house where the sunlight is maximum. The plant can also displace itself to automatic tap systems, where it is watered by the tap which can sense the pot’s presence and release the water accordingly. The pot can sense the moisture level in the soil and displace itself to a tap whenever its moisture level is below a threshold, while also informing this to its owner.
+This is all done automatically by the pot without needing any human intervention.
